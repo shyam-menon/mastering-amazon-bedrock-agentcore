@@ -236,3 +236,4 @@ Thumbs.db
 .gitignore
 .kiro/steering/tech.md
 .kiro/steering/product.md
+.kiro/hooks/notebook-readme-sync.kiro.hook

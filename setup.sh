@@ -18,11 +18,11 @@ uv add boto3 python-dotenv jupyter ipykernel requests
 
 # Try to install bedrock packages (may not be publicly available)
 echo "📦 Installing AgentCore packages..."
-uv add bedrock-agentcore bedrock-agentcore-starter-toolkit || echo "⚠️ AgentCore packages not available"
+uv add bedrock-agentcore bedrock-agentcore-starter-toolkit strands-agents-tools || echo "⚠️ AgentCore packages not available"
 
 # Install additional packages for notebooks
 echo "📦 Installing additional packages..."
-uv add strands-agents pandas numpy matplotlib seaborn beautifulsoup4 selenium
+uv add strands-agents pandas numpy matplotlib seaborn beautifulsoup4 selenium fastapi
 uv add google-api-python-client google-auth-httplib2 google-auth-oauthlib
 uv add watchtower structlog
 
