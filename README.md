@@ -1,10 +1,19 @@
 # Mastering Amazon Bedrock AgentCore
 
-Official code repository for the Udemy course on building production-ready AI agents using Amazon Bedrock AgentCore.
+**Personal Learning Repository** by **Shyam Menon**  
+🌟 **Repository**: https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore
+
+*Based on AgentCore tutorial materials for building production-ready AI agents using Amazon Bedrock AgentCore.*
 
 ## Overview
 
-This comprehensive course teaches you how to build enterprise-grade AI agents using Amazon Bedrock AgentCore. Through hands-on implementation of an AI Travel Companion application, you'll master all seven core components of the AgentCore framework and learn how to deploy production-ready AI solutions on AWS.
+This is my personal implementation and learning journey through building enterprise-grade AI agents using Amazon Bedrock AgentCore. Through hands-on implementation of an AI Travel Companion application, I'm mastering all seven core components of the AgentCore framework and learning how to deploy production-ready AI solutions on AWS.
+
+## Learning Progress
+- ✅ **Notebook 01**: Foundation & AWS Setup - Complete
+- ✅ **Notebook 02**: Runtime Setup - Complete  
+- 🔄 **Notebook 03**: Gateway Integration - In Progress
+- ⏳ **Notebooks 04-08**: Pending
 
 ## What You'll Build
 
@@ -55,7 +64,7 @@ For full functionality, obtain free API keys from:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/puria-izady/mastering-amazon-bedrock-agentcore.git
+git clone https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore.git
 cd mastering-amazon-bedrock-agentcore
 ```
 
@@ -157,7 +166,7 @@ Coordinate multiple tools and components, manage complex workflows, and optimize
 
 ## Key Features & Learning Outcomes
 
-After completing this course, you will:
+Through this learning project, I am gaining skills to:
 
 - ✅ Understand Amazon Bedrock AgentCore architecture
 - ✅ Build production-ready AI agents from scratch
@@ -194,14 +203,15 @@ See [tests/README.md](tests/README.md) for detailed testing documentation.
 
 ## Support & Resources
 
-- **Course Platform**: Udemy (link coming soon)
-- **Issues**: [GitHub Issues](https://github.com/puria-izady/mastering-amazon-bedrock-agentcore/issues)
+- **Repository**: [GitHub](https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore) 
+- **Issues**: [GitHub Issues](https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore/issues)
 - **Documentation**: Each notebook contains detailed explanations and documentation
 - **AWS Documentation**: [Amazon Bedrock AgentCore](https://docs.aws.amazon.com/bedrock/)
+- **Learning Notes**: Personal implementation with corporate environment adaptations
 
 ## Contributing
 
-This is a course repository. While it's primarily for educational purposes, bug reports and improvements are welcome through GitHub Issues.
+This is a personal learning repository documenting my journey through AgentCore. While it's primarily for educational purposes, suggestions and improvements are welcome through GitHub Issues. Feel free to fork this repository for your own learning!
 
 ## License
 
@@ -227,8 +237,10 @@ For more issues, check the troubleshooting section in each notebook.
 
 ## Acknowledgments
 
-Built with Amazon Bedrock AgentCore and the AWS ecosystem. Special thanks to the AWS AI team for creating this powerful framework for building production-grade AI agents.
+Built with Amazon Bedrock AgentCore and the AWS ecosystem. This personal learning project is based on AgentCore tutorial materials. Special thanks to the AWS AI team for creating this powerful framework for building production-grade AI agents.
 
 ---
 
-**Ready to master AI agent development?** Start with [Notebook 01: Foundation & AWS Setup](capstone_project/notebooks/01-foundation.ipynb)
+**Following along with my learning journey?** Start with [Notebook 01: Foundation & AWS Setup](capstone_project/notebooks/01-foundation.ipynb)
+
+**Repository**: https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore
