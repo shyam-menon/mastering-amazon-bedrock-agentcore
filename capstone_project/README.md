@@ -1,5 +1,9 @@
 # AI Travel Companion - Capstone Project
 
+> **Repository**: https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore  
+> **Author**: Shyam Menon  
+> **Implementation**: Personal learning project based on AgentCore tutorial materials
+
 ## Overview
 Build a production-ready AI Travel Companion using Amazon Bedrock AgentCore that helps users plan complete travel itineraries with intelligent budget allocation, preference memory, and comprehensive research capabilities.
 
@@ -56,8 +60,24 @@ Upon completion, you'll have:
 
 ## Support
 - 📚 Comprehensive documentation in each notebook
-- 🔧 Starter code and templates provided
+- 🔧 Starter code and templates provided  
 - 📊 CloudWatch dashboards for debugging
 - 💬 Discussion forums for questions
+
+## Repository Information
+This is a personal implementation and learning project for mastering Amazon Bedrock AgentCore.
+
+**Clone & Setup:**
+```bash
+git clone https://github.com/shyam-menon/mastering-amazon-bedrock-agentcore.git
+cd mastering-amazon-bedrock-agentcore/capstone_project
+pip install -r requirements.txt
+```
+
+**Progress Tracking:**
+- ✅ **Notebook 01**: Foundation setup complete
+- ✅ **Notebook 02**: AgentCore Runtime setup complete  
+- 🔄 **Notebook 03**: Gateway Integration (in progress)
+- ⏳ **Notebooks 04-09**: Pending
 
 Start with `notebooks/01-foundation.ipynb` to begin your journey!
